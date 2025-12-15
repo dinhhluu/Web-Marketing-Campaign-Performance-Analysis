@@ -33,3 +33,4 @@ Conversions: Số lượt chuyển đổi được ghi nhận trong phiên truy 
 
 Revenue: Doanh thu tạo ra từ phiên truy cập của người dùng, tính bằng USD.
 
+Trước khi tiến hành phân tích và xây dựng mô hình dự đoán, dữ liệu cần được kiểm tra và làm sạch nhằm đảm bảo tính nhất quán và độ tin cậy. Trong nghiên cứu này, SQL được sử dụng để thực hiện các bước kiểm tra và làm sạch dữ liệu ban đầu do khả năng truy vấn hiệu quả và dễ tái lập trên tập dữ liệu lớn.
