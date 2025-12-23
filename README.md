@@ -1,4 +1,4 @@
-# Marketing-and-Product-Performance-Dataset
+# Web Marketing Campaign Performance Analysis
 ## Tổng quan về dự án
 Trong bối cảnh cạnh tranh ngày càng cao của thương mại điện tử, việc hiểu rõ hành vi người dùng và hiệu quả của các chiến dịch marketing trực tuyến đóng vai trò then chốt trong việc tối ưu tỷ lệ chuyển đổi và doanh thu. Bộ dữ liệu được sử dụng trong luận văn này ghi lại các tương tác của người dùng với các chiến dịch marketing trực tuyến của một website thương mại điện tử mang tính mô phỏng, trong khoảng thời gian từ ngày 01/06/2023 đến 30/06/2023.
 
