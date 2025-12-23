@@ -34,4 +34,6 @@ Conversions: Số lượt chuyển đổi được ghi nhận trong phiên truy 
 Revenue: Doanh thu tạo ra từ phiên truy cập của người dùng, tính bằng USD.
 
 Dựa trên tập dữ liệu này, bài luận tập trung phân tích hiệu quả của các kênh marketing và chiến dịch quảng cáo, cũng như hành vi người dùng trên các thiết bị khác nhau.
-Trước khi tiến hành phân tích và xây dựng mô hình dự đoán, dữ liệu cần được kiểm tra và làm sạch nhằm đảm bảo tính nhất quán và độ tin cậy. Trong nghiên cứu này, SQL được sử dụng để thực hiện các bước kiểm tra và làm sạch dữ liệu ban đầu do khả năng truy vấn hiệu quả và dễ tái lập trên tập dữ liệu lớn.
+Trước khi tiến hành phân tích và xây dựng mô hình dự đoán, dữ liệu cần được kiểm tra và làm sạch nhằm đảm bảo tính nhất quán và độ tin cậy. Trong nghiên cứu này, Python được sử dụng để thực hiện các bước kiểm tra và làm sạch dữ liệu ban đầu do khả năng truy vấn hiệu quả và dễ tái lập trên tập dữ liệu lớn, đồng thời dùng để phân tích mối quan hệ giữa các biến và dự báo.
+
+
