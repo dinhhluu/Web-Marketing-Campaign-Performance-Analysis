@@ -38,3 +38,4 @@ Based on this dataset, the study focuses on analyzing the performance of marketi
 
 Before conducting in-depth analysis and building predictive models, the dataset is examined and cleaned to ensure data consistency and reliability. Python is employed throughout the research process to perform data preprocessing, exploratory data analysis, correlation analysis, statistical analysis, and regression-based predictive modeling.
 
+
