@@ -78,6 +78,6 @@ The dataset contains **10,000 session-level records** and multiple groups of var
   - non-linear models, interaction terms (e.g., Country × Source), or tree-based models, and evaluation metrics beyond accuracy (precision/recall, ROC-AUC) due to class imbalance.
 **Note:** Regression results showed very low explanatory power (low R² / pseudo R²) and non-significant predictors, so conclusions from models are treated as exploratory rather than predictive.
 
-## . Notebook
+## 88. Notebook
 The full analysis, visualizations, and modeling process can be found in the Google Colab notebook: (https://github.com/dinhhluu/Web-Marketing-Campaign-Performance-Analysis/blob/main/Web_Marketing_Data.ipynb)
 
