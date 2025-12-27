@@ -13,6 +13,7 @@ CSV dataset hosted on GitHub (raw link used in the notebook): `https://raw.githu
 The dataset contains **10,000 session-level records** and multiple groups of variables capturing user behavior, marketing channels, and business outcomes.
 
 **Key variables include:**
+
 `Date`: The date of the user session (MM/DD/YYYY).
 
 `User_ID`: A unique identifier for each user.
