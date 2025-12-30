@@ -63,9 +63,9 @@ The dataset contains **10,000 session-level records** and multiple groups of var
 - **Conversions and Revenue are strongly correlated**, confirming conversions as the primary revenue driver.
 ### Conversion Drives Revenue
 
-  ![Pearson Correlation Heatmap](images/Pearson Correlation Heatmap.png)
+  ![Pearson Correlation Heatmap](images/Pearson_Correlation_Heatmap.png)
 
-  ![Spearman Correlation Heatmap](images/Spearman Correlation Heatmap.png)
+  ![Spearman Correlation Heatmap](images/Spearman_Correlation_Heatmap.png)
   
 *Conversions show a strong positive correlation with revenue, confirming conversion volume as the primary revenue driver.*
 
@@ -73,7 +73,7 @@ The dataset contains **10,000 session-level records** and multiple groups of var
 - 
 ### Segment-Level Conversion Differences Are Modest
 
-  ![Average Conversion Rate by Device Category](images/Average Conversion Rate by Device Category.png)
+  ![Average Conversion Rate by Device Category](images/Average_Conversion_Rate_by_Device_Category.png)
 
 *Conversion rates across devices are relatively similar, indicating limited segment-driven performance differences.*
 
@@ -82,7 +82,7 @@ The dataset contains **10,000 session-level records** and multiple groups of var
 - 
 ### Revenue per Conversion Is Stable Across Segments
 
-  ![AVG Revenue per Conversion by Country](images/AVG Revenue per Conversion by Country.png)
+  ![AVG Revenue per Conversion by Country](images/AVG_Revenue_per_Conversion_by_Country.png)
 
 *Transaction value remains consistent across countries, suggesting revenue differences are volume-driven.*
   
@@ -90,7 +90,7 @@ The dataset contains **10,000 session-level records** and multiple groups of var
 - 
 ### Revenue Fluctuations Are Volume-Driven Over Time
 
-    ![Weekly AVG Conversion Rate and Total Revenue](images/Weekly AVG Conversion Rate and Total Revenue.png)
+    ![Weekly AVG Conversion Rate and Total Revenue](images/Weekly_AVG Conversion_Rate_and_Total_Revenue.png)
 
   *Weekly revenue varies more than conversion rate, reinforcing the volume-driven revenue pattern.*
 
