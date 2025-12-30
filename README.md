@@ -79,5 +79,5 @@ The dataset contains **10,000 session-level records** and multiple groups of var
 **Note:** Regression results showed very low explanatory power (low R² / pseudo R²) and non-significant predictors, so conclusions from models are treated as exploratory rather than predictive.
 
 ## 8. Notebook
-The full analysis, visualizations, and modeling process can be found in the Google Colab notebook: (https://github.com/dinhhluu/Web-Marketing-Campaign-Performance-Analysis/blob/main/Web_Marketing_Data.ipynb)
+The full analysis, visualizations, and modeling process can be found in the Google Colab notebook: (https://colab.research.google.com/drive/1GaAsw57H5LAbCcfFu1p2zGFZ2erL6M2M?usp=sharing)
 
