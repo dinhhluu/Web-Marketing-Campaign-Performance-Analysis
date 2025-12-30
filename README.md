@@ -70,7 +70,7 @@ The dataset contains **10,000 session-level records** and multiple groups of var
 *Conversions show a strong positive correlation with revenue, confirming conversion volume as the primary revenue driver.*
 
 - **Conversion rate differences across segments are modest** (source, medium, campaign, country, device), suggesting no single segment dominates conversion performance.
-- 
+  
 ### Segment-Level Conversion Differences Are Modest
 
   ![Average Conversion Rate by Device Category](images/Average_Conversion_Rate_by_Device_Category.png)
@@ -79,7 +79,7 @@ The dataset contains **10,000 session-level records** and multiple groups of var
 
 - **New users show slightly higher conversion rate than returning users**, which may indicate stronger new-user incentives or weaker retention mechanisms.
 - **Revenue per conversion is highly consistent** across countries and devices, implying revenue differences are more driven by conversion volume than transaction value.
-- 
+  
 ### Revenue per Conversion Is Stable Across Segments
 
   ![AVG Revenue per Conversion by Country](images/AVG_Revenue_per_Conversion_by_Country.png)
@@ -108,6 +108,26 @@ The dataset contains **10,000 session-level records** and multiple groups of var
   - non-linear models, interaction terms (e.g., Country × Source), or tree-based models, and evaluation metrics beyond accuracy (precision/recall, ROC-AUC) due to class imbalance.
 **Note:** Regression results showed very low explanatory power (low R² / pseudo R²) and non-significant predictors, so conclusions from models are treated as exploratory rather than predictive.
 
-## 8. Notebook
+And, These recommendations are constrained by current data availability and modeling limitations, motivating the following next steps.
+
+## 8. Next Steps / Future Work
+
+Based on the current findings and data limitations, future work should focus on:
+
+- **Enhancing data collection**
+  - Add richer product, pricing, discount, and basket-level information.
+  - Capture complete funnel events (view, click, add-to-cart, purchase) to better model user journeys.
+
+- **Strengthening retention analysis**
+  - Implement persistent customer identifiers to track repeat behavior across sessions.
+  - Enable deeper analysis of returning users, retention impact, and long-term value.
+
+- **Improving modeling approaches**
+  - Revisit advanced and non-linear models (e.g., interaction terms, tree-based methods) once richer data becomes available.
+  - Evaluate models using business-aligned metrics (precision, recall, ROC-AUC) rather than accuracy alone.
+
+These steps would establish a stronger analytical foundation and enable more reliable, scalable, and data-driven revenue optimization.
+
+## 9. Notebook
 The full analysis, visualizations, and modeling process can be found in the Google Colab notebook: (https://colab.research.google.com/drive/1GaAsw57H5LAbCcfFu1p2zGFZ2erL6M2M?usp=sharing)
 
