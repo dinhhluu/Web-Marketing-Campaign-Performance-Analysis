@@ -90,7 +90,7 @@ The dataset contains **10,000 session-level records** and multiple groups of var
 - 
 ### Revenue Fluctuations Are Volume-Driven Over Time
 
-    ![Weekly AVG Conversion Rate and Total Revenue](images/Weekly_AVG_Conversion_Rate_and_Total_Revenue.png)
+  ![Weekly AVG Conversion Rate and Total Revenue](images/Weekly_AVG_Conversion_Rate_and_Total_Revenue.png)
 
   *Weekly revenue varies more than conversion rate, reinforcing the volume-driven revenue pattern.*
 
