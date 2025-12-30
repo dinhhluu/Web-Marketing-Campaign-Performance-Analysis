@@ -1,12 +1,12 @@
 # Web Marketing Campaign Performance Analysis
 
-https://github.com/dinhhluu/Web-Marketing-Campaign-Performance-Analysis/blob/main/images/What-is-Web-Marketing-1-2.jpg
+![What is Web Marketing](images/What-is-Web-Marketing-1-2.jpg)
 
 ## 1. Project Goals
 This project analyzes session-level web marketing data to:
 - Understand user engagement and conversion behavior across segments (user type, source/medium, campaign, device, and country).
 - Identify which factors are associated with higher conversion efficiency and revenue outcomes.
-- Provide actionable insights and recommendations for improving marketing performance.
+- Provide actionable insights and recommendations for improving marketing performance
 
 ## 2. Data Source
 CSV dataset hosted on GitHub (raw link used in the notebook): `https://raw.githubusercontent.com/dinhhluu/Web-Marketing-Campaign-Performance Analysis/main/web_marketing_data.csv`
