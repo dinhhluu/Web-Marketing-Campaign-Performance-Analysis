@@ -1,5 +1,7 @@
 # Web Marketing Campaign Performance Analysis
 
+https://github.com/dinhhluu/Web-Marketing-Campaign-Performance-Analysis/blob/main/images/What-is-Web-Marketing-1-2.jpg
+
 ## 1. Project Goals
 This project analyzes session-level web marketing data to:
 - Understand user engagement and conversion behavior across segments (user type, source/medium, campaign, device, and country).
