@@ -61,10 +61,37 @@ The dataset contains **10,000 session-level records** and multiple groups of var
 
 ## 5. Key Insights Discovered
 - **Conversions and Revenue are strongly correlated**, confirming conversions as the primary revenue driver.
+### Conversion Drives Revenue
+
+![Pearson Correlation Heatmap](images/Pearson Correlation Heatmap.png)
+![Spearman Correlation Heatmap](images/Spearman Correlation Heatmap.png)
+  
+*Conversions show a strong positive correlation with revenue, confirming conversion volume as the primary revenue driver.*
+
 - **Conversion rate differences across segments are modest** (source, medium, campaign, country, device), suggesting no single segment dominates conversion performance.
+- 
+### Segment-Level Conversion Differences Are Modest
+
+![Average Conversion Rate by Device Category](images/Average Conversion Rate by Device Category.png)
+
+*Conversion rates across devices are relatively similar, indicating limited segment-driven performance differences.*
+
 - **New users show slightly higher conversion rate than returning users**, which may indicate stronger new-user incentives or weaker retention mechanisms.
 - **Revenue per conversion is highly consistent** across countries and devices, implying revenue differences are more driven by conversion volume than transaction value.
+- 
+### Revenue per Conversion Is Stable Across Segments
+
+![AVG Revenue per Conversion by Country](images/AVG Revenue per Conversion by Country.png)
+
+*Transaction value remains consistent across countries, suggesting revenue differences are volume-driven.*
+  
 - Over time (weekly), **conversion rate is relatively stable** while **total revenue fluctuates more**, suggesting revenue changes may be volume/value-driven rather than conversion-rate driven.
+- 
+### Revenue Fluctuations Are Volume-Driven Over Time
+
+  ![Weekly AVG Conversion Rate and Total Revenue](images/Weekly AVG Conversion Rate and Total Revenue.png)
+
+  *Weekly revenue varies more than conversion rate, reinforcing the volume-driven revenue pattern.*
 
 ## 6. Hypotheses Based on the Insights
 - Since revenue per conversion is similar across segments, **total revenue differences are likely driven by conversion volume** (traffic and number of converting sessions).
